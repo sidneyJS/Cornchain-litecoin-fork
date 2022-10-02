@@ -1,13 +1,12 @@
-<!-- This issue tracker is only for technical issues related to Litecoin Core.
+<!-- This issue tracker is only for technical issues related to Cornchain Core.
 
-General litecoin questions and/or support requests and are best directed to the [litecointalk.io forums](https://litecointalk.io/).
+There are no support forums yet, but it would be best to message a developer on discord.
 
-For reporting security issues, please contact the Litecoin developers on the #litecoin-dev Freenode IRC channel or alternatively you can email us at contact@litecoin.org.
+To report security issues, message TankMaster14_iron#5462 on discord.
 
 If the node is "stuck" during sync or giving "block checksum mismatch" errors, please ensure your hardware is stable by running memtest and observe CPU temperature with a load-test tool such as linpack before creating an issue!
 
-Any report, issue or feature request related to the GUI should be reported at
-https://github.com/bitcoin-core/gui/issues/
+Any GUI addons you want or bugs should also be reported to TankMaster14_iron#5462.
 -->
 
 <!-- Describe the issue -->
